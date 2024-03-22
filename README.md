@@ -1,4 +1,4 @@
-<img align="center" src="https://i.imgur.com/mVM65eT.jpg" alt="giofar81" />
+<img align="center" src="https://i.imgur.com/KKLN4Xs.jpg" />
 <h1 align="center">Hi 👋, I'm Giovanni Farina
 <h3 align="center">A full-stack developer student.</h3>
 

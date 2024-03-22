@@ -1,4 +1,5 @@
-[![MasterHead]([![MasterHead](https://i.imgur.com/mVM65eT.jpg)]
+<img align="center" src="https://i.imgur.com/mVM65eT.jpg" alt="giofar81" />
+https://i.imgur.com/mVM65eT.jpg
 <h1 align="center">Hi 👋, I'm Giovanni Farina</h1>https://i.imgur.com/mVM65eT.jpg
 <h3 align="center">A full-stack developer student.</h3>
 

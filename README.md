@@ -1,5 +1,5 @@
 <img align="center" src="https://i.imgur.com/mVM65eT.jpg" alt="giofar81" />
-<h1 align="center">Hi 👋, I'm Giovanni Farina</h1>https://i.imgur.com/mVM65eT.jpg
+<h1 align="center">Hi 👋, I'm Giovanni Farina
 <h3 align="center">A full-stack developer student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giofar81&label=Profile%20views&color=0e75b6&style=flat" alt="giofar81" /> </p>

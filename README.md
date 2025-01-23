@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GioFar81](https://github.com/GioFar81)
 
-- 📫 How to reach me **giofar81@pm.me**
+- 📫 How to reach me **giofar@giofar.dev**
 
 - ⚡ Fun fact **I have a degree in Fine-Art**
 

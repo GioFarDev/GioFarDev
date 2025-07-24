@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Giovanni Farina
 <h3 align="center">A full-stack developer student.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giofar81&label=Profile%20views&color=0e75b6&style=flat" alt="giofardev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=giofardev&label=Profile%20views&color=0e75b6&style=flat" alt="giofardev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/farigiovanni" target="blank"><img src="https://img.shields.io/twitter/follow/farigiovanni?logo=twitter&style=for-the-badge" alt="farigiovanni" /></a> </p>
 

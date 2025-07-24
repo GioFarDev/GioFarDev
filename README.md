@@ -8,7 +8,7 @@
 
 - 🌱 I'm currently studying: **Codecademy Full-Stack Engineer, IBM Full Stack Software Developer Professional Certificate. HTML, CSS, JavaScript, and more to come.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GioFar81](https://github.com/GioFardev)
+- 👨‍💻 All of my projects are available at [https://github.com/GioFarDev](https://github.com/GioFardev)
 
 - 📫 How to reach me **giofar@giofar.dev**
 

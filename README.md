@@ -15,7 +15,7 @@ I'm a developer building a comprehensive skillset in full-stack engineering and 
 * **Next Up:** Diving deep into AI with the **Machine Learning/AI Engineering Foundations** path, focusing on Python and its data science ecosystem.
 * **My Goal:** To build and deploy end-to-end applications that are not only functional but also secure, accessible, and intelligent.
 
-📧 **Contact**: [giofar@giofar.dev](mailto:giofar@giofar.dev) | 🌐 **Portfolio**: [View my work]((https://github.com/GioFarDev?tab=repositories)
+📧 **Contact**: [giofar@giofar.dev](mailto:giofar@giofar.dev) | 🌐 **Portfolio**: [View my work](https://github.com/GioFarDev?tab=repositories)
 
 ## 💼 Technical Skills
 

@@ -1,4 +1,5 @@
 ![Github banner](https://i.imgur.com/rY3L3UI.png)
+
 # Giovanni Farina
 **Aspiring Full-Stack Developer | Photography Graduate | Currently Learning**
 
@@ -37,19 +38,19 @@ I'm a developer building a comprehensive skillset in full-stack engineering and 
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-## 📈 GitHub Analytics
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GioFarDev&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=GioFarDev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GioFarDev&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giofardev&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giofardev&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=GioFarDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giofardev&theme=default&hide_border=true" alt="GitHub Streak" />
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=GioFarDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌟 Featured Projects
 

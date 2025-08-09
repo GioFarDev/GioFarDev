@@ -1,4 +1,4 @@
-<img align="center" src="https://i.imgur.com/CLIOu0N.jpeg" alt="giofardev logo" alt="giofardev logo" />
+<img align="center" src="https://i.imgur.com/rY3L3UI.png" alt="giofardev logo" />
 <h1 align="center">Hi 👋, I'm Giovanni Farina
 <h3 align="center">A full-stack developer student.</h3>
 

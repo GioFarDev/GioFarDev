@@ -1,3 +1,4 @@
+![Github banner](https://url-to-your-image.com/image.png)
 # Giovanni Farina
 **Aspiring Full-Stack Developer | Photography Graduate | Currently Learning**
 
